@@ -1,3 +1,3 @@
 # p5js-playground
 
-initial commit
+repository of p5js projects
