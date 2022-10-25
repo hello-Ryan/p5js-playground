@@ -1,7 +1,7 @@
 function setup() {
-  // put setup code here
+  createCanvas(400, 400, WEBGL);
 }
 
 function draw() {
-  // put drawing code here
+  background('black');
 }
